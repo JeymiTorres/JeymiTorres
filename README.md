@@ -14,13 +14,13 @@
 
 ## 👩‍💻 Sobre mí
 
-Me dedico a **automatizar procesos con inteligencia artificial**. Combino plataformas de automatización como **n8n, Make, Zapier y Power Automate** con modelos de IA como **Claude, Copilot y ChatGPT** para crear flujos que clasifican, validan y procesan información sin trabajo manual.
+Me dedico a **automatizar procesos con inteligencia artificial**. Combino plataformas de automatización como **n8n, Power Automate y Power Apps** con modelos de IA como **Claude, Copilot y ChatGPT** para crear flujos que clasifican, validan y procesan información sin trabajo manual.
 
 Vengo de **más de 5 años en el sector financiero**, donde aprendí a detectar tareas repetitivas, medir su costo y convertirlas en procesos automáticos, confiables y fáciles de auditar.
 
 - 🤖 Actualmente: construyendo agentes y flujos con IA para procesos operativos.
 - 🛠️ Desarrollo con: **Claude Code** y **GitHub Copilot** como asistentes de programación en Python.
-- 🌱 Aprendiendo: agentes de IA, integración de APIs y Python para automatización.
+- 🌱 Aprendiendo: **Make** y **Zapier**, agentes de IA, integración de APIs y Python para automatización.
 - 💬 Pregúntame sobre: automatización de procesos, Power Platform y cómo aplicar IA en tareas del día a día.
 
 ---
@@ -31,7 +31,7 @@ Vengo de **más de 5 años en el sector financiero**, donde aprendí a detectar 
   <tr>
     <td width="33%" valign="top">
       <h3>⚙️ Flujos de automatización</h3>
-      Integro apps y datos con n8n, Make, Zapier y Power Automate: formularios, correos, hojas de cálculo, CRMs y SharePoint conectados sin intervención manual.
+      Integro apps y datos con n8n, Power Automate y Power Apps: formularios, correos, hojas de cálculo, CRMs y SharePoint conectados sin intervención manual.
     </td>
     <td width="33%" valign="top">
       <h3>🤖 Agentes y asistentes con IA</h3>
@@ -63,7 +63,7 @@ Vengo de **más de 5 años en el sector financiero**, donde aprendí a detectar 
 ```text
 1. Detectar     →  ¿Qué tarea repetitiva consume más tiempo o genera más errores?
 2. Diseñar      →  Mapear el flujo: disparador, datos, reglas y dónde aporta la IA.
-3. Automatizar  →  Construir con n8n, Make, Zapier o Power Automate + un modelo de IA.
+3. Automatizar  →  Construir con n8n o Power Automate + un modelo de IA.
 4. Medir        →  Comparar tiempo y errores antes y después con un dashboard.
 ```
 
@@ -78,14 +78,6 @@ Vengo de **más de 5 años en el sector financiero**, donde aprendí a detectar 
     <td align="center" width="96">
       <img src="https://api.iconify.design/logos/n8n-icon.svg" width="44" height="44" alt="n8n"><br>
       <sub><b>n8n</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://api.iconify.design/thesvg-color/make.svg" width="44" height="44" alt="Make"><br>
-      <sub><b>Make</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://api.iconify.design/logos/zapier-icon.svg" width="44" height="44" alt="Zapier"><br>
-      <sub><b>Zapier</b></sub>
     </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/microsoft/PowerBI-Icons/SVG/Power-Automate-Colored.svg" width="44" height="44" alt="Power Automate"><br>
@@ -187,6 +179,21 @@ Vengo de **más de 5 años en el sector financiero**, donde aprendí a detectar 
   </tr>
 </table>
 
+**🌱 Aprendiendo**
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://api.iconify.design/thesvg-color/make.svg" width="44" height="44" alt="Make"><br>
+      <sub><b>Make</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://api.iconify.design/logos/zapier-icon.svg" width="44" height="44" alt="Zapier"><br>
+      <sub><b>Zapier</b></sub>
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## 📂 Proyectos
@@ -194,8 +201,8 @@ Vengo de **más de 5 años en el sector financiero**, donde aprendí a detectar 
 | Proyecto | Descripción | Tecnologías | Estado |
 |---|---|---|---|
 | **Clasificador de solicitudes con IA** | Flujo que recibe solicitudes por correo o formulario, las clasifica con IA, extrae los datos clave y las registra en una hoja de cálculo. | n8n · Claude / ChatGPT · Google Sheets | 🚧 En construcción |
-| **Validación de documentos con IA** | Revisa expedientes, detecta datos faltantes o inconsistentes y avisa al responsable. | Make / Power Automate · IA · SharePoint | 🚧 En construcción |
-| **Reporte semanal automático** | Junta datos de varias fuentes, genera un resumen con IA y lo envía cada semana. | Zapier · Python · Power BI | 🚧 En construcción |
+| **Validación de documentos con IA** | Revisa expedientes, detecta datos faltantes o inconsistentes y avisa al responsable. | Power Automate · Power Apps · IA · SharePoint | 🚧 En construcción |
+| **Reporte semanal automático** | Junta datos de varias fuentes, genera un resumen con IA y lo envía cada semana. | n8n · Python · Power BI | 🚧 En construcción |
 | **Scripts de automatización con Claude Code** | Herramientas en Python creadas con asistencia de IA para limpiar y transformar archivos de Excel. | Python · Claude Code · Copilot | 🚧 En construcción |
 | [**Portafolio web**](https://github.com/JeymiTorres/PORTAFOLIOJEY) | Mi portafolio personal en desarrollo. | HTML · CSS · JavaScript | ✅ Disponible |
 
