@@ -12,16 +12,26 @@
 
 ---
 
+<h1 align="center">¡Hola! 👋 Soy Jeymi Torres</h1>
+
+<p align="center">
+  <b>📊 Analista de Datos &nbsp;|&nbsp; ⚙️ Automatización de Procesos &nbsp;|&nbsp; 🤖 Inteligencia Artificial</b>
+</p>
+
+---
+
+
+
 ## 👩‍💻 Sobre mí
 
-Me dedico a **automatizar procesos con inteligencia artificial**. Combino plataformas de automatización como **n8n, Power Automate y Power Apps** con modelos de IA como **Claude, Copilot y ChatGPT** para crear flujos que clasifican, validan y procesan información sin trabajo manual.
+Profesional con **más de 5 años de experiencia en el sector financiero**, especializada en **análisis de datos, automatización de procesos, control de calidad y mejora continua**.
 
-Vengo de **más de 5 años en el sector financiero**, donde aprendí a detectar tareas repetitivas, medir su costo y convertirlas en procesos automáticos, confiables y fáciles de auditar.
+Mi objetivo es **transformar procesos operativos en soluciones más eficientes** mediante el uso de datos, tecnología y automatización. Cuento con experiencia en herramientas del **ecosistema Microsoft** y actualmente estoy ampliando mis conocimientos en **Python e inteligencia artificial aplicada a los negocios**.
 
-- 🤖 Actualmente: construyendo agentes y flujos con IA para procesos operativos.
-- 🛠️ Desarrollo con: **Claude Code** y **GitHub Copilot** como asistentes de programación en Python.
-- 🌱 Aprendiendo: **Make** y **Zapier**, agentes de IA, integración de APIs y Python para automatización.
-- 💬 Pregúntame sobre: automatización de procesos, Power Platform y cómo aplicar IA en tareas del día a día.
+- 📊 Actualmente: creando dashboards e indicadores KPI para dar seguimiento a la operación.
+- ⚙️ Desarrollo con: **Power Automate, Power Apps, SharePoint y Dataverse**.
+- 🌱 Aprendiendo: **Python** e **inteligencia artificial** aplicada a procesos de negocio, **Copilot**, **Claude Cowork** y agentes inteligentes.
+- 💬 Pregúntame sobre: análisis de datos, Power Platform, control de calidad y automatización de tareas manuales.
 
 ---
 
@@ -30,16 +40,16 @@ Vengo de **más de 5 años en el sector financiero**, donde aprendí a detectar 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>⚙️ Flujos de automatización</h3>
-      Integro apps y datos con n8n, Power Automate y Power Apps: formularios, correos, hojas de cálculo, CRMs y SharePoint conectados sin intervención manual.
+      <h3>📈 Análisis de datos</h3>
+      Dashboards en Power BI, indicadores KPI, consultas SQL y Excel avanzado para analizar, validar y gestionar información que facilite la toma de decisiones.
     </td>
     <td width="33%" valign="top">
-      <h3>🤖 Agentes y asistentes con IA</h3>
-      Agrego IA a los procesos para clasificar solicitudes, extraer datos de documentos, resumir información y apoyar decisiones con Claude, Copilot y ChatGPT.
+      <h3>⚙️ Automatización y aplicaciones</h3>
+      Flujos con Power Automate y aplicaciones de negocio con Power Apps, SharePoint y Dataverse para reducir tareas manuales y mejorar la calidad de la información.
     </td>
     <td width="33%" valign="top">
-      <h3>📊 Datos para medir el impacto</h3>
-      Dashboards en Power BI y consultas SQL para medir tiempos, errores y ahorro, y demostrar el valor de cada automatización.
+      <h3>🤖 IA aplicada a procesos</h3>
+      Exploro soluciones con Python, Copilot, Claude Cowork y agentes inteligentes para apoyar procesos empresariales y mejorar la productividad.
     </td>
   </tr>
 </table>
@@ -50,74 +60,33 @@ Vengo de **más de 5 años en el sector financiero**, donde aprendí a detectar 
 
 <div align="center">
 
-| ⏱️ Ahorro identificado | 🗂️ Expedientes validados | 🎯 Precisión | 📅 Experiencia |
+| ⚡ Ahorro identificado | 🗂️ Expedientes validados | 🎯 Precisión | 📅 Experiencia |
 |:---:|:---:|:---:|:---:|
 | **hasta 6 h/semana** | **3,265** | **> 99.9 %** | **5+ años** en finanzas |
 
 </div>
+
+- ⚡ **Automatización:** identificación de oportunidades de mejora con un potencial de ahorro de hasta 6 horas operativas semanales.
+- 🎯 **Control de calidad:** validación de 3,265 expedientes con una precisión superior al 99.9 %.
+- 📊 **Análisis operativo:** seguimiento de solicitudes, incidencias e indicadores clave de desempeño (KPI).
+- 🔄 **Soluciones de negocio:** desarrollo de aplicaciones con Power Apps y Dataverse para extraer y validar información.
 
 ---
 
 ## 🔄 Cómo trabajo
 
 ```text
-1. Detectar     →  ¿Qué tarea repetitiva consume más tiempo o genera más errores?
-2. Diseñar      →  Mapear el flujo: disparador, datos, reglas y dónde aporta la IA.
-3. Automatizar  →  Construir con n8n o Power Automate + un modelo de IA.
-4. Medir        →  Comparar tiempo y errores antes y después con un dashboard.
+1. Analizar     →  ¿Qué proceso consume más tiempo o genera más errores?
+2. Medir        →  Definir indicadores KPI y obtener los datos con SQL, Excel o Power BI.
+3. Automatizar  →  Construir la solución con Power Automate, Power Apps o Python.
+4. Validar      →  Asegurar la calidad de la información y comparar resultados antes y después.
 ```
 
 ---
 
 ## 🛠️ Tecnologías y herramientas
 
-**Automatización**
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://api.iconify.design/logos/n8n-icon.svg" width="44" height="44" alt="n8n"><br>
-      <sub><b>n8n</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/microsoft/PowerBI-Icons/SVG/Power-Automate-Colored.svg" width="44" height="44" alt="Power Automate"><br>
-      <sub><b>Power Automate</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/microsoft/PowerBI-Icons/SVG/Power-Apps-Colored.svg" width="44" height="44" alt="Power Apps"><br>
-      <sub><b>Power Apps</b></sub>
-    </td>
-  </tr>
-</table>
-
-**Inteligencia artificial**
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://api.iconify.design/logos/claude-code.svg" width="44" height="44" alt="Claude Code"><br>
-      <sub><b>Claude Code</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://api.iconify.design/logos/claude-icon.svg" width="44" height="44" alt="Claude"><br>
-      <sub><b>Claude</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://api.iconify.design/devicon/githubcopilot.svg" width="44" height="44" alt="GitHub Copilot"><br>
-      <sub><b>GitHub Copilot</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://api.iconify.design/selfhst/microsoft-copilot.svg" width="44" height="44" alt="Microsoft Copilot"><br>
-      <sub><b>Microsoft Copilot</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://api.iconify.design/selfhst/chatgpt.svg" width="44" height="44" alt="ChatGPT"><br>
-      <sub><b>ChatGPT</b></sub>
-    </td>
-  </tr>
-</table>
-
-**Datos**
+**📈 Análisis de datos**
 
 <table>
   <tr>
@@ -131,7 +100,22 @@ Vengo de **más de 5 años en el sector financiero**, donde aprendí a detectar 
     </td>
     <td align="center" width="96">
       <img src="https://api.iconify.design/selfhst/microsoft-excel.svg" width="44" height="44" alt="Excel"><br>
-      <sub><b>Excel</b></sub>
+      <sub><b>Excel avanzado</b></sub>
+    </td>
+  </tr>
+</table>
+
+**⚙️ Automatización y aplicaciones**
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/microsoft/PowerBI-Icons/SVG/Power-Automate-Colored.svg" width="44" height="44" alt="Power Automate"><br>
+      <sub><b>Power Automate</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/microsoft/PowerBI-Icons/SVG/Power-Apps-Colored.svg" width="44" height="44" alt="Power Apps"><br>
+      <sub><b>Power Apps</b></sub>
     </td>
     <td align="center" width="96">
       <img src="https://api.iconify.design/selfhst/microsoft-sharepoint.svg" width="44" height="44" alt="SharePoint"><br>
@@ -144,7 +128,7 @@ Vengo de **más de 5 años en el sector financiero**, donde aprendí a detectar 
   </tr>
 </table>
 
-**Desarrollo**
+**💻 Desarrollo**
 
 <table>
   <tr>
@@ -165,58 +149,64 @@ Vengo de **más de 5 años en el sector financiero**, donde aprendí a detectar 
       <sub><b>CSS3</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="44" height="44" alt="Git"><br>
-      <sub><b>Git</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github" width="44" height="44" alt="GitHub"><br>
-      <sub><b>GitHub</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="44" height="44" alt="VS Code"><br>
-      <sub><b>VS Code</b></sub>
+      <img src="https://api.iconify.design/vscode-icons/file-type-json.svg" width="44" height="44" alt="JSON"><br>
+      <sub><b>JSON</b></sub>
     </td>
   </tr>
 </table>
 
-**🌱 Aprendiendo**
+**🤖 Inteligencia artificial**
 
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://api.iconify.design/thesvg-color/make.svg" width="44" height="44" alt="Make"><br>
-      <sub><b>Make</b></sub>
+      <img src="https://api.iconify.design/selfhst/microsoft-copilot.svg" width="44" height="44" alt="Microsoft Copilot"><br>
+      <sub><b>Copilot</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://api.iconify.design/logos/zapier-icon.svg" width="44" height="44" alt="Zapier"><br>
-      <sub><b>Zapier</b></sub>
+      <img src="https://api.iconify.design/logos/claude-icon.svg" width="44" height="44" alt="Claude Cowork"><br>
+      <sub><b>Claude Cowork</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://api.iconify.design/fluent-emoji/robot.svg" width="44" height="44" alt="Agentes inteligentes"><br>
+      <sub><b>Agentes inteligentes</b></sub>
     </td>
   </tr>
 </table>
 
 ---
 
-## 📂 Proyectos
+## 📂 Proyectos y portafolio
 
-| Proyecto | Descripción | Tecnologías | Estado |
+Estoy construyendo un portafolio de proyectos prácticos para demostrar cómo **los datos, la automatización y la inteligencia artificial pueden resolver problemas reales**.
+
+| Área | Descripción | Tecnologías | Estado |
 |---|---|---|---|
-| **Clasificador de solicitudes con IA** | Flujo que recibe solicitudes por correo o formulario, las clasifica con IA, extrae los datos clave y las registra en una hoja de cálculo. | n8n · Claude / ChatGPT · Google Sheets | 🚧 En construcción |
-| **Validación de documentos con IA** | Revisa expedientes, detecta datos faltantes o inconsistentes y avisa al responsable. | Power Automate · Power Apps · IA · SharePoint | 🚧 En construcción |
-| **Reporte semanal automático** | Junta datos de varias fuentes, genera un resumen con IA y lo envía cada semana. | n8n · Python · Power BI | 🚧 En construcción |
-| **Scripts de automatización con Claude Code** | Herramientas en Python creadas con asistencia de IA para limpiar y transformar archivos de Excel. | Python · Claude Code · Copilot | 🚧 En construcción |
+| **📊 Análisis de datos** | Dashboards, indicadores KPI y análisis de operaciones. | Power BI · SQL · Excel | 🚧 En construcción |
+| **⚙️ Automatización** | Optimización de tareas repetitivas mediante Python y herramientas de automatización. | Python · Power Automate | 🚧 En construcción |
+| **🤖 Inteligencia artificial** | Soluciones para apoyar procesos empresariales y mejorar la productividad. | Copilot · Claude Cowork · Agentes inteligentes · Python | 🚧 En construcción |
+| **💻 Desarrollo** | Aplicaciones y herramientas para simplificar tareas y gestionar información. | Power Apps · Dataverse · SharePoint | 🚧 En construcción |
 | [**Portafolio web**](https://github.com/JeymiTorres/PORTAFOLIOJEY) | Mi portafolio personal en desarrollo. | HTML · CSS · JavaScript | ✅ Disponible |
 
-> Voy actualizando esta sección conforme publico y documento cada proyecto.
+> Aquí iré incorporando mis proyectos con su documentación, tecnologías utilizadas y resultados obtenidos.
 
 ---
 
-## 🎯 Mi objetivo
+## 🎯 Mi objetivo profesional
 
-Ayudar a equipos y empresas a **dejar de hacer a mano lo que una automatización con IA puede hacer mejor**, con soluciones **medibles, confiables y fáciles de mantener**.
+Integrar **análisis de datos, automatización e inteligencia artificial** para diseñar soluciones **eficientes, medibles y escalables** que generen valor para las organizaciones.
+
+Busco seguir creciendo profesionalmente mediante proyectos que combinen mi experiencia en **procesos financieros** con nuevas tecnologías y programación.
 
 ---
+
+## 📫 Contacto
 
 <p align="center">
-  <b>Automatizo procesos con IA para que las personas se enfoquen en lo importante ✨</b><br>
-  <a href="https://www.linkedin.com/in/jeymi-torres-bb08222a4/">¡Conectemos en LinkedIn!</a>
+  <a href="https://github.com/JeymiTorres">🐙 GitHub: @JeymiTorres</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/jeymi-torres-bb08222a4/">💼 LinkedIn</a>
+</p>
+
+<p align="center">
+  <b>Transformando datos y procesos en soluciones inteligentes ✨</b>
 </p>
