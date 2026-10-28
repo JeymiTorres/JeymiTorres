@@ -62,29 +62,84 @@ Trabajo día a día con **Power Platform (Power Automate, Power Apps, Power BI),
 
 **Datos y análisis**
 
-<p>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/Excel%20avanzado-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel">
-</p>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://api.iconify.design/logos/microsoft-power-bi.svg" width="44" height="44" alt="Power BI"><br>
+      <sub><b>Power BI</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://api.iconify.design/vscode-icons/file-type-sql.svg" width="44" height="44" alt="SQL"><br>
+      <sub><b>SQL</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://api.iconify.design/selfhst/microsoft-excel.svg" width="44" height="44" alt="Excel"><br>
+      <sub><b>Excel</b></sub>
+    </td>
+  </tr>
+</table>
 
 **Automatización e IA**
 
-<p>
-  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" alt="Power Automate">
-  <img src="https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" alt="Power Apps">
-  <img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white" alt="SharePoint">
-  <img src="https://img.shields.io/badge/Dataverse-088142?style=for-the-badge&logoColor=white" alt="Dataverse">
-  <img src="https://img.shields.io/badge/Copilot-7B61FF?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="Copilot">
-</p>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/microsoft/PowerBI-Icons/SVG/Power-Automate-Colored.svg" width="44" height="44" alt="Power Automate"><br>
+      <sub><b>Power Automate</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/microsoft/PowerBI-Icons/SVG/Power-Apps-Colored.svg" width="44" height="44" alt="Power Apps"><br>
+      <sub><b>Power Apps</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://api.iconify.design/selfhst/microsoft-sharepoint.svg" width="44" height="44" alt="SharePoint"><br>
+      <sub><b>SharePoint</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/microsoft/PowerBI-Icons/SVG/Dataverse-Colored.svg" width="44" height="44" alt="Dataverse"><br>
+      <sub><b>Dataverse</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://api.iconify.design/selfhst/microsoft-copilot.svg" width="44" height="44" alt="Copilot"><br>
+      <sub><b>Copilot</b></sub>
+    </td>
+  </tr>
+</table>
 
 **Desarrollo**
 
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode&perline=7" alt="Python, JavaScript, HTML, CSS, Git, GitHub, VS Code">
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=python" width="44" height="44" alt="Python"><br>
+      <sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=js" width="44" height="44" alt="JavaScript"><br>
+      <sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="44" height="44" alt="HTML5"><br>
+      <sub><b>HTML5</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="44" height="44" alt="CSS3"><br>
+      <sub><b>CSS3</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="44" height="44" alt="Git"><br>
+      <sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=github" width="44" height="44" alt="GitHub"><br>
+      <sub><b>GitHub</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" width="44" height="44" alt="VS Code"><br>
+      <sub><b>VS Code</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
